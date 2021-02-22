@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.acticity">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:icon="@drawable/module_app_iconic"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/net_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LogIn_Activity">
+        <activity android:name="com.example.macticity.mactivity.MainActivitySongs"></activity>
+
+        <service
+            android:name="com.example.macticity.service.MusicService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.example.macticity.mactivity.MainActivityPlayMusic">
+
+        </activity>
+        <activity android:name="com.example.macticity.mactivity.MainActivity">
+
+        </activity>
+        <activity android:name="com.example.macticity.mactivity.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

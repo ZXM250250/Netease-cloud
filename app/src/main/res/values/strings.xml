@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">网抑云</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_name_activity">Music App</string>
+    <string name="app_playing_song">当前歌曲播放队列</string>
+    <string name="app_playing_song_name">歌曲名</string>
+    <string name="app_playing_singer">歌手</string>
+    <string name="app_phone_activity">Playing</string>
+    <string name="app_login_activity">登录体验更多的精彩</string>
+    <string name="app_logining_activity">未注册手机号登录后将自动创建账号</string>
+    <string name="app_phonenumber_activity">手机号</string>
+    <string name="app_write_phone_activity">请输入手机号</string>
+    <string name="app_password_activity">密码</string>
+    <string name="app_writepassword_activity">请输入密码</string>
+    <string name="app_login_main_activity">登录</string>
+    <string name="app_change_password_activity">修改密码</string>
+    <string name="app_writeandcote_activity">请输入手机号，发送验证码</string>
+    <string name="app_number_activity">+86</string>
+    <string name="app_cote_activity">验证码</string>
+    <string name="app_writecote_activity">请输入验证码</string>
+    <string name="app_write_new_activity">请输入你的新密码</string>
+    <string name="app_send_cote_activity">发送验证码</string>
+    <string name="app_make_name_activity">大人请为你自己取一个名字</string>
+    <string name="app_register_activity">立即注册</string>
+    <string name="app_main_btn_activity">一键网抑</string>
+    <string name="app_user_activity">《用户协议》</string>
+    <string name="app_children_activity">《儿童隐私政策》</string>
+    <string name="app_private_activity">《隐私政策》</string>
+    <string name="app_no_songs">暂无歌曲播放</string>
+    <string name="app_hai_songs">写不动啦</string>
+    <string name="app_sleep_better">还是睡懒觉比较香</string>
+    <string name="app_wake_up">快去叫醒正在睡懒觉的王同学</string>
+    <string name="app_playing_activity">Playing</string>
+</resources>
